@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HttpPost.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://gzsdkj.top</Value>
+    </Setting>
+    <Setting Name="projectCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1001</Value>
+    </Setting>
+    <Setting Name="Apartdata" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="toOrg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">91440101793479487D</Value>
+    </Setting>
+    <Setting Name="busId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1001B2C</Value>
+    </Setting>
+    <Setting Name="userName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">陈翔宇</Value>
+    </Setting>
+    <Setting Name="userCarid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">440902199507283711</Value>
+    </Setting>
+    <Setting Name="userMobile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">15913147808</Value>
+    </Setting>
+    <Setting Name="busFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Api" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/api/sign/ws/push</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

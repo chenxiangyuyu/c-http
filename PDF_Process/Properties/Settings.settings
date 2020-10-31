@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PDF_Process.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="wordUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\86159\Desktop\新建 DOC 文档.doc</Value>
+    </Setting>
+    <Setting Name="oldValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">name#cardid#mobile</Value>
+    </Setting>
+    <Setting Name="newValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">陈翔#440902199507283711#15913147808</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
